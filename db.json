@@ -1,9 +1,42 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "2",
+      "title": "Moana",
+      "year": 2016,
+      "genre": "Animation",
+      "synopsis": "Moana, the adventurous daughter of a Polynesian chief, is chosen by the ocean to restore the heart of Te Fiti, a goddess whose stolen heart has caused environmental devastation. Defying her father’s wishes, she sets sail across the ocean and seeks the help of the demigod Maui. Together, they face fierce monsters, treacherous waters, and Maui’s own insecurities. Along the way, Moana discovers her true strength and identity, proving that she is destined to lead her people. With stunning animation, heartfelt storytelling, and unforgettable music, Moana’s journey is one of courage, self-discovery, and embracing one's destiny.",
+      "keywords": [
+        "ocean adventure",
+        "self-discovery",
+        "empowerment"
+      ],
+      "image": "https://i.pinimg.com/736x/d8/c8/5f/d8c85fbf3ac1a0e3977d4b4365f37217.jpg",
+      "trailer": "https://www.youtube.com/watch?v=LKFuXETZUsI",
+      "rating": ""
+    },
+    {
+      "id": "3",
+      "title": "Beauty in Black",
+      "synopsis": "A captivating journey of resilience and grace, following a young artist who discovers her true strength through adversity.",
+      "keywords": [
+        "drama",
+        "inspiration",
+        "art",
+        "resilience",
+        "self-discovery"
+      ],
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "streaming": [
+        "Netflix",
+        "Amazon Prime"
+      ],
+      "year": 2024,
+      "image": "https://i.pinimg.com/736x/b2/fe/14/b2fe14bfeab1a03acbc8c1a1e7478162.jpg",
+      "trailer": "https://www.youtube.com/watch?v=0dclNQV71-k&pp=ygUXYmVhdXR5IGluIGJsYWNrIHRyYWlsZXI%3D"
+    }
+  ]
 }
